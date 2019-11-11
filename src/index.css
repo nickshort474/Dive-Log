@@ -1,3 +1,7 @@
+html{
+	
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -5,9 +9,27 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:url("./assets/images/ocean.jpg") no-repeat center center fixed;
+  	background-size:cover; 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.navIcons{
+	font-size:30px;
+	font-weight:bold;
+	
+
+}
+
+.navIcons:hover{
+	text-decoration: none;
+}
+
+.noPadding{
+	padding:0px;
+}
+
