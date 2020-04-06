@@ -11,10 +11,10 @@ export default class Navigation extends React.Component{
 			<div className="container">
 				<div className="row">
 					<div className="col-3 text-center noPadding">
-						<Link className="navIcons" to="/Home"><span class="fas fa-home"></span><span className="d-none d-sm-block">Home</span></Link>
+						<Link className="navIcons" to="/Home"><span className="fas fa-home"></span><span className="d-none d-sm-block">Home</span></Link>
 					</div>
 					<div className="col-3 text-center noPadding">
-						<Link className="navIcons" to="/Log"><span class="fas fa-clipboard-list"></span><span className="d-none d-sm-block">Dive Log</span></Link>
+						<Link className="navIcons" to="/Log"><span className="fas fa-clipboard-list"></span><span className="d-none d-sm-block">Dive Log</span></Link>
 					</div>
 					<div className="col-3 text-center noPadding">
 						<Link className="navIcons" to="/AddDive"><span className="fas fa-plus"></span><span className="d-none d-sm-block">Add Dive</span></Link>

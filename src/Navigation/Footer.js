@@ -28,12 +28,12 @@ export default class Footer extends React.Component{
 		return(
 			
 			<div>
-            <div style={this.phantom} />
-            <div style={this.style}>
-                footer
-            </div>
-        </div>
-			
+            	<div style={this.phantom} />
+	            <div style={this.style}>
+	                footer
+	            </div>
+        	</div>
+				
 		)
 	}
 } 

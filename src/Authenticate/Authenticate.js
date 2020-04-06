@@ -2,10 +2,10 @@ import React from 'react';
 
 export default class Authenticate extends React.Component{
 	
-	constructor(){
+	/*constructor(){
 		super();
 		
-	}
+	}*/
 
 	render(){
 		return(

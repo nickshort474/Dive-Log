@@ -9,12 +9,9 @@ export default class Home extends React.Component {
 		
 		return (
 			
-			<div>
-				<p>Home</p>
-				<div>
-					content 
-				 </div>
-
+			<div className="container">
+				<h1>Dive-Log.com</h1>
+				
 			</div>
 
         	

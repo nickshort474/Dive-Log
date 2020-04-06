@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 import './App.css';
 
 
@@ -11,6 +12,10 @@ import Home from './Home/Home';
 import Log from './Log/Log';
 import AddDive from './AddDive/AddDive';
 import Authenticate from './Authenticate/Authenticate';
+
+
+
+
 
 
 export default class App extends React.Component {
